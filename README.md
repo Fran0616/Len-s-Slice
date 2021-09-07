@@ -35,7 +35,7 @@ Taks
 13. Three mice walk into the store. They don’t have much money (they’re mice), but they do each want different pizzas.Slice the pizza_and_prices list and store the 3 lowest cost pizzas in a list called three_cheapest.
 14. Great job! The mice are very pleased and will be leaving you a 5-star review. Print the three_cheapest list.
 
-[Scripy.py]()
+[Scripy.py](https://github.com/Fran0616/Len-s-Slice/blob/main/LenSlice.py)
 =
 ```
 topping = ["pepperoni","pineapple", "cheese","sausage", "olives", "anchovies", "mushrooms"]#list to keep track of the pizza topping
